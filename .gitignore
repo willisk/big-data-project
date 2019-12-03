@@ -2,3 +2,5 @@ _backup
 data/parsed/*
 data/filtered/*
 data/download/*
+*.vscode
+*.DS_STORE
