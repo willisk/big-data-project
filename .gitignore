@@ -1,0 +1,4 @@
+_backup
+data/parsed/*
+data/filtered/*
+data/download/*
